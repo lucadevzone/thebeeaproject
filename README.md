@@ -3,6 +3,7 @@ The Beea Project è sia un videogioco che un video-diario in cui vi mostrerò il
 
 
 Canale Youtube
+![canale](web/canale.png)
 https://www.youtube.com/channel/UC14864r07RfbKCnGzbGv8pg
 
 Playlist The Beea project: https://www.youtube.com/watch?v=4nFS6CA_9pY&list=PLXluEbwqaGXKkJP30wf_Nd2usb5SAUhqc&pp=gAQBiAQB
